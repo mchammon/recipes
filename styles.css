@@ -1,0 +1,43 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+body {
+    background-color: wheat;
+    font-size: 14px;
+    font-family: Verdana, sans-serif;
+    margin: auto;
+    padding: 30px;
+}
+
+h1 {
+    margin: 5px;
+}
+
+h2 {
+    margin: 5px;
+}
+
+div {
+    background-color: beige;
+    margin: 12px auto;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+p {
+    margin: 5px;
+}
+
+.page {
+    margin: auto;
+    background-color: cadetblue;
+    width: 800px;
+        border: 2px dotted white;
+}
+
+img {
+    margin: 12px auto;
+    display: block;
+    border: 2px solid black;
+}
